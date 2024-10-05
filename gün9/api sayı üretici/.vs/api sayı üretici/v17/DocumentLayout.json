@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\staj dosyalar\u0131m\\staj projeleri\\api say\u0131 \u00FCretici\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE6A6F7-84A7-4DE1-BBD0-448907A99AFE}|api say\u0131 \u00FCretici\\api say\u0131 \u00FCretici.csproj|d:\\staj dosyalar\u0131m\\staj projeleri\\api say\u0131 \u00FCretici\\api say\u0131 \u00FCretici\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE6A6F7-84A7-4DE1-BBD0-448907A99AFE}|api say\u0131 \u00FCretici\\api say\u0131 \u00FCretici.csproj|solutionrelative:api say\u0131 \u00FCretici\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE6A6F7-84A7-4DE1-BBD0-448907A99AFE}|api say\u0131 \u00FCretici\\api say\u0131 \u00FCretici.csproj|D:\\staj dosyalar\u0131m\\staj projeleri\\api say\u0131 \u00FCretici\\api say\u0131 \u00FCretici\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9FE6A6F7-84A7-4DE1-BBD0-448907A99AFE}|api say\u0131 \u00FCretici\\api say\u0131 \u00FCretici.csproj|solutionrelative:api say\u0131 \u00FCretici\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\staj dosyalar\u0131m\\staj projeleri\\api say\u0131 \u00FCretici\\api say\u0131 \u00FCretici\\Form1.cs",
+              "RelativeDocumentMoniker": "api say\u0131 \u00FCretici\\Form1.cs",
+              "ToolTip": "D:\\staj dosyalar\u0131m\\staj projeleri\\api say\u0131 \u00FCretici\\api say\u0131 \u00FCretici\\Form1.cs",
+              "RelativeToolTip": "api say\u0131 \u00FCretici\\Form1.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T12:22:45.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "D:\\staj dosyalar\u0131m\\staj projeleri\\api say\u0131 \u00FCretici\\api say\u0131 \u00FCretici\\Form1.cs",
+              "RelativeDocumentMoniker": "api say\u0131 \u00FCretici\\Form1.cs",
+              "ToolTip": "D:\\staj dosyalar\u0131m\\staj projeleri\\api say\u0131 \u00FCretici\\api say\u0131 \u00FCretici\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "api say\u0131 \u00FCretici\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T12:22:00.36Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

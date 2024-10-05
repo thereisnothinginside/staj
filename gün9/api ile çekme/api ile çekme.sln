@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35219.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "api ile çekme", "api ile çekme\api ile çekme.csproj", "{4AA47338-9A8C-48FB-9B6B-3A6D04EAE62D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4AA47338-9A8C-48FB-9B6B-3A6D04EAE62D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AA47338-9A8C-48FB-9B6B-3A6D04EAE62D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AA47338-9A8C-48FB-9B6B-3A6D04EAE62D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AA47338-9A8C-48FB-9B6B-3A6D04EAE62D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {91BE3E1E-427B-439A-BAF6-D2DE318DDAD7}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\staj dosyalar\u0131m\\staj projeleri\\g\u00FCn5\\to-do list\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8B3CB514-A3F1-4E94-97D2-D2D56D88D5EB}|to-do list\\to-do list.csproj|d:\\staj dosyalar\u0131m\\staj projeleri\\g\u00FCn5\\to-do list\\to-do list\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B3CB514-A3F1-4E94-97D2-D2D56D88D5EB}|to-do list\\to-do list.csproj|solutionrelative:to-do list\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B3CB514-A3F1-4E94-97D2-D2D56D88D5EB}|to-do list\\to-do list.csproj|D:\\staj dosyalar\u0131m\\staj projeleri\\g\u00FCn5\\to-do list\\to-do list\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8B3CB514-A3F1-4E94-97D2-D2D56D88D5EB}|to-do list\\to-do list.csproj|solutionrelative:to-do list\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B3CB514-A3F1-4E94-97D2-D2D56D88D5EB}|to-do list\\to-do list.csproj|D:\\staj dosyalar\u0131m\\staj projeleri\\g\u00FCn5\\to-do list\\to-do list\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B3CB514-A3F1-4E94-97D2-D2D56D88D5EB}|to-do list\\to-do list.csproj|solutionrelative:to-do list\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\staj dosyalar\u0131m\\staj projeleri\\g\u00FCn5\\to-do list\\to-do list\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "to-do list\\Form1.Designer.cs",
+              "ToolTip": "D:\\staj dosyalar\u0131m\\staj projeleri\\g\u00FCn5\\to-do list\\to-do list\\Form1.Designer.cs",
+              "RelativeToolTip": "to-do list\\Form1.Designer.cs",
+              "ViewState": "AgIAAKQAAAAAAAAAAAAAAMYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T14:24:11.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\staj dosyalar\u0131m\\staj projeleri\\g\u00FCn5\\to-do list\\to-do list\\Form1.cs",
+              "RelativeDocumentMoniker": "to-do list\\Form1.cs",
+              "ToolTip": "D:\\staj dosyalar\u0131m\\staj projeleri\\g\u00FCn5\\to-do list\\to-do list\\Form1.cs*",
+              "RelativeToolTip": "to-do list\\Form1.cs*",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAvwF8AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T13:06:22.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "D:\\staj dosyalar\u0131m\\staj projeleri\\g\u00FCn5\\to-do list\\to-do list\\Form1.cs",
+              "RelativeDocumentMoniker": "to-do list\\Form1.cs",
+              "ToolTip": "D:\\staj dosyalar\u0131m\\staj projeleri\\g\u00FCn5\\to-do list\\to-do list\\Form1.cs [Tasar\u0131m]*",
+              "RelativeToolTip": "to-do list\\Form1.cs [Tasar\u0131m]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T12:28:25.848Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

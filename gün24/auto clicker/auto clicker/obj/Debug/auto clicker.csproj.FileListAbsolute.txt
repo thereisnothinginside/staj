@@ -1,0 +1,24 @@
+C:\Users\kanar\source\repos\auto clicker\auto clicker\obj\Debug\auto clicker.csproj.AssemblyReference.cache
+C:\Users\kanar\source\repos\auto clicker\auto clicker\obj\Debug\auto_clicker.Properties.Resources.resources
+C:\Users\kanar\source\repos\auto clicker\auto clicker\obj\Debug\auto clicker.csproj.GenerateResource.cache
+C:\Users\kanar\source\repos\auto clicker\auto clicker\obj\Debug\auto clicker.csproj.CoreCompileInputs.cache
+C:\Users\kanar\source\repos\auto clicker\auto clicker\bin\Debug\auto clicker.exe.config
+C:\Users\kanar\source\repos\auto clicker\auto clicker\bin\Debug\auto clicker.exe
+C:\Users\kanar\source\repos\auto clicker\auto clicker\bin\Debug\auto clicker.pdb
+C:\Users\kanar\source\repos\auto clicker\auto clicker\bin\Debug\Gma.System.MouseKeyHook.dll
+C:\Users\kanar\source\repos\auto clicker\auto clicker\obj\Debug\auto cli.EE5615FD.Up2Date
+C:\Users\kanar\source\repos\auto clicker\auto clicker\obj\Debug\auto clicker.exe
+C:\Users\kanar\source\repos\auto clicker\auto clicker\obj\Debug\auto clicker.pdb
+C:\Users\kanar\source\repos\auto clicker\auto clicker\obj\Debug\GlobalClicker.Form1.resources
+D:\vs projelerim\repos\auto clicker\auto clicker\bin\Debug\auto clicker.exe.config
+D:\vs projelerim\repos\auto clicker\auto clicker\bin\Debug\auto clicker.exe
+D:\vs projelerim\repos\auto clicker\auto clicker\bin\Debug\auto clicker.pdb
+D:\vs projelerim\repos\auto clicker\auto clicker\bin\Debug\Gma.System.MouseKeyHook.dll
+D:\vs projelerim\repos\auto clicker\auto clicker\obj\Debug\auto clicker.csproj.AssemblyReference.cache
+D:\vs projelerim\repos\auto clicker\auto clicker\obj\Debug\GlobalClicker.Form1.resources
+D:\vs projelerim\repos\auto clicker\auto clicker\obj\Debug\auto_clicker.Properties.Resources.resources
+D:\vs projelerim\repos\auto clicker\auto clicker\obj\Debug\auto clicker.csproj.GenerateResource.cache
+D:\vs projelerim\repos\auto clicker\auto clicker\obj\Debug\auto clicker.csproj.CoreCompileInputs.cache
+D:\vs projelerim\repos\auto clicker\auto clicker\obj\Debug\auto cli.EE5615FD.Up2Date
+D:\vs projelerim\repos\auto clicker\auto clicker\obj\Debug\auto clicker.exe
+D:\vs projelerim\repos\auto clicker\auto clicker\obj\Debug\auto clicker.pdb

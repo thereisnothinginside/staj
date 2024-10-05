@@ -1,0 +1,10 @@
+D:\vs projelerim\repos\get port api uygulaması\get port api uygulaması\bin\Debug\get port api uygulaması.exe.config
+D:\vs projelerim\repos\get port api uygulaması\get port api uygulaması\bin\Debug\get port api uygulaması.exe
+D:\vs projelerim\repos\get port api uygulaması\get port api uygulaması\bin\Debug\get port api uygulaması.pdb
+D:\vs projelerim\repos\get port api uygulaması\get port api uygulaması\obj\Debug\get port api uygulaması.csproj.AssemblyReference.cache
+D:\vs projelerim\repos\get port api uygulaması\get port api uygulaması\obj\Debug\get_port_api_uygulaması.Form1.resources
+D:\vs projelerim\repos\get port api uygulaması\get port api uygulaması\obj\Debug\get_port_api_uygulaması.Properties.Resources.resources
+D:\vs projelerim\repos\get port api uygulaması\get port api uygulaması\obj\Debug\get port api uygulaması.csproj.GenerateResource.cache
+D:\vs projelerim\repos\get port api uygulaması\get port api uygulaması\obj\Debug\get port api uygulaması.csproj.CoreCompileInputs.cache
+D:\vs projelerim\repos\get port api uygulaması\get port api uygulaması\obj\Debug\get port api uygulaması.exe
+D:\vs projelerim\repos\get port api uygulaması\get port api uygulaması\obj\Debug\get port api uygulaması.pdb

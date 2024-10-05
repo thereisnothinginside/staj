@@ -1,0 +1,65 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\staj dosyalar\u0131m\\staj projeleri\\g\u00FCn17\\access control proxy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A1399B29-4D3C-47B4-AE5C-096FF7496972}|access control proxy\\access control proxy.csproj|d:\\staj dosyalar\u0131m\\staj projeleri\\g\u00FCn17\\access control proxy\\access control proxy\\service1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1399B29-4D3C-47B4-AE5C-096FF7496972}|access control proxy\\access control proxy.csproj|solutionrelative:access control proxy\\service1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1399B29-4D3C-47B4-AE5C-096FF7496972}|access control proxy\\access control proxy.csproj|D:\\staj dosyalar\u0131m\\staj projeleri\\g\u00FCn17\\access control proxy\\access control proxy\\projectinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A1399B29-4D3C-47B4-AE5C-096FF7496972}|access control proxy\\access control proxy.csproj|solutionrelative:access control proxy\\projectinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1399B29-4D3C-47B4-AE5C-096FF7496972}|access control proxy\\access control proxy.csproj|D:\\staj dosyalar\u0131m\\staj projeleri\\g\u00FCn17\\access control proxy\\access control proxy\\service1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A1399B29-4D3C-47B4-AE5C-096FF7496972}|access control proxy\\access control proxy.csproj|solutionrelative:access control proxy\\service1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProjectInstaller.cs [Tasar\u0131m]",
+              "DocumentMoniker": "D:\\staj dosyalar\u0131m\\staj projeleri\\g\u00FCn17\\access control proxy\\access control proxy\\ProjectInstaller.cs",
+              "RelativeDocumentMoniker": "access control proxy\\ProjectInstaller.cs",
+              "ToolTip": "C:\\Users\\kanar\\source\\repos\\access control proxy\\access control proxy\\ProjectInstaller.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T04:46:22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Service1.cs",
+              "DocumentMoniker": "D:\\staj dosyalar\u0131m\\staj projeleri\\g\u00FCn17\\access control proxy\\access control proxy\\Service1.cs",
+              "RelativeDocumentMoniker": "access control proxy\\Service1.cs",
+              "ToolTip": "D:\\staj dosyalar\u0131m\\staj projeleri\\g\u00FCn17\\access control proxy\\access control proxy\\Service1.cs",
+              "RelativeToolTip": "access control proxy\\Service1.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T21:25:07.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Service1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "D:\\staj dosyalar\u0131m\\staj projeleri\\g\u00FCn17\\access control proxy\\access control proxy\\Service1.cs",
+              "RelativeDocumentMoniker": "access control proxy\\Service1.cs",
+              "ToolTip": "C:\\Users\\kanar\\source\\repos\\access control proxy\\access control proxy\\Service1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T21:24:58.314Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

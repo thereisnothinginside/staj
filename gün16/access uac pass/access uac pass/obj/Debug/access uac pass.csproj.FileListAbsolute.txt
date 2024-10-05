@@ -1,0 +1,9 @@
+C:\Users\kanar\source\repos\access uac pass\access uac pass\bin\Debug\access uac pass.exe.config
+C:\Users\kanar\source\repos\access uac pass\access uac pass\bin\Debug\access uac pass.exe
+C:\Users\kanar\source\repos\access uac pass\access uac pass\bin\Debug\access uac pass.pdb
+C:\Users\kanar\source\repos\access uac pass\access uac pass\obj\Debug\access uac pass.csproj.AssemblyReference.cache
+C:\Users\kanar\source\repos\access uac pass\access uac pass\obj\Debug\access uac pass.csproj.CoreCompileInputs.cache
+C:\Users\kanar\source\repos\access uac pass\access uac pass\obj\Debug\access uac pass.exe
+C:\Users\kanar\source\repos\access uac pass\access uac pass\obj\Debug\access uac pass.pdb
+C:\Users\kanar\source\repos\access uac pass\access uac pass\obj\Debug\access_uac_pass.ProjectInstaller.resources
+C:\Users\kanar\source\repos\access uac pass\access uac pass\obj\Debug\access uac pass.csproj.GenerateResource.cache

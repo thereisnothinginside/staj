@@ -1,0 +1,9 @@
+C:\Users\kanar\source\repos\access control proxy\access control proxy\obj\Debug\access control proxy.csproj.AssemblyReference.cache
+C:\Users\kanar\source\repos\access control proxy\access control proxy\obj\Debug\access_control_proxy.ProjectInstaller.resources
+C:\Users\kanar\source\repos\access control proxy\access control proxy\obj\Debug\access control proxy.csproj.GenerateResource.cache
+C:\Users\kanar\source\repos\access control proxy\access control proxy\obj\Debug\access control proxy.csproj.CoreCompileInputs.cache
+C:\Users\kanar\source\repos\access control proxy\access control proxy\bin\Debug\access control proxy.exe.config
+C:\Users\kanar\source\repos\access control proxy\access control proxy\bin\Debug\access control proxy.exe
+C:\Users\kanar\source\repos\access control proxy\access control proxy\bin\Debug\access control proxy.pdb
+C:\Users\kanar\source\repos\access control proxy\access control proxy\obj\Debug\access control proxy.exe
+C:\Users\kanar\source\repos\access control proxy\access control proxy\obj\Debug\access control proxy.pdb

@@ -1,0 +1,20 @@
+C:\Users\kanar\source\repos\database  yedekleme\database  yedekleme\bin\Debug\database  yedekleme.exe.config
+C:\Users\kanar\source\repos\database  yedekleme\database  yedekleme\bin\Debug\database  yedekleme.exe
+C:\Users\kanar\source\repos\database  yedekleme\database  yedekleme\bin\Debug\database  yedekleme.pdb
+C:\Users\kanar\source\repos\database  yedekleme\database  yedekleme\obj\Debug\database  yedekleme.csproj.AssemblyReference.cache
+C:\Users\kanar\source\repos\database  yedekleme\database  yedekleme\obj\Debug\database__yedekleme.Properties.Resources.resources
+C:\Users\kanar\source\repos\database  yedekleme\database  yedekleme\obj\Debug\database  yedekleme.csproj.GenerateResource.cache
+C:\Users\kanar\source\repos\database  yedekleme\database  yedekleme\obj\Debug\database  yedekleme.csproj.CoreCompileInputs.cache
+C:\Users\kanar\source\repos\database  yedekleme\database  yedekleme\obj\Debug\database  yedekleme.exe
+C:\Users\kanar\source\repos\database  yedekleme\database  yedekleme\obj\Debug\database  yedekleme.pdb
+C:\Users\kanar\source\repos\database  yedekleme\database  yedekleme\obj\Debug\database_yedekleme.Form1.resources
+D:\vs projelerim\repos\database  yedekleme\database  yedekleme\bin\Debug\database  yedekleme.exe.config
+D:\vs projelerim\repos\database  yedekleme\database  yedekleme\bin\Debug\database  yedekleme.exe
+D:\vs projelerim\repos\database  yedekleme\database  yedekleme\bin\Debug\database  yedekleme.pdb
+D:\vs projelerim\repos\database  yedekleme\database  yedekleme\obj\Debug\database  yedekleme.csproj.AssemblyReference.cache
+D:\vs projelerim\repos\database  yedekleme\database  yedekleme\obj\Debug\database_yedekleme.Form1.resources
+D:\vs projelerim\repos\database  yedekleme\database  yedekleme\obj\Debug\database__yedekleme.Properties.Resources.resources
+D:\vs projelerim\repos\database  yedekleme\database  yedekleme\obj\Debug\database  yedekleme.csproj.GenerateResource.cache
+D:\vs projelerim\repos\database  yedekleme\database  yedekleme\obj\Debug\database  yedekleme.csproj.CoreCompileInputs.cache
+D:\vs projelerim\repos\database  yedekleme\database  yedekleme\obj\Debug\database  yedekleme.exe
+D:\vs projelerim\repos\database  yedekleme\database  yedekleme\obj\Debug\database  yedekleme.pdb

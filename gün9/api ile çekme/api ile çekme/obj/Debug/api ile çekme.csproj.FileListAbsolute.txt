@@ -1,0 +1,20 @@
+C:\Users\kanar\source\repos\api ile çekme\api ile çekme\bin\Debug\api ile çekme.exe.config
+C:\Users\kanar\source\repos\api ile çekme\api ile çekme\bin\Debug\api ile çekme.exe
+C:\Users\kanar\source\repos\api ile çekme\api ile çekme\bin\Debug\api ile çekme.pdb
+C:\Users\kanar\source\repos\api ile çekme\api ile çekme\obj\Debug\api ile çekme.csproj.AssemblyReference.cache
+C:\Users\kanar\source\repos\api ile çekme\api ile çekme\obj\Debug\api_ile_çekme.Form1.resources
+C:\Users\kanar\source\repos\api ile çekme\api ile çekme\obj\Debug\api_ile_çekme.Properties.Resources.resources
+C:\Users\kanar\source\repos\api ile çekme\api ile çekme\obj\Debug\api ile çekme.csproj.GenerateResource.cache
+C:\Users\kanar\source\repos\api ile çekme\api ile çekme\obj\Debug\api ile çekme.csproj.CoreCompileInputs.cache
+C:\Users\kanar\source\repos\api ile çekme\api ile çekme\obj\Debug\api ile çekme.exe
+C:\Users\kanar\source\repos\api ile çekme\api ile çekme\obj\Debug\api ile çekme.pdb
+D:\vs projelerim\repos\api ile çekme\api ile çekme\bin\Debug\api ile çekme.exe.config
+D:\vs projelerim\repos\api ile çekme\api ile çekme\bin\Debug\api ile çekme.exe
+D:\vs projelerim\repos\api ile çekme\api ile çekme\bin\Debug\api ile çekme.pdb
+D:\vs projelerim\repos\api ile çekme\api ile çekme\obj\Debug\api ile çekme.csproj.AssemblyReference.cache
+D:\vs projelerim\repos\api ile çekme\api ile çekme\obj\Debug\api_ile_çekme.Form1.resources
+D:\vs projelerim\repos\api ile çekme\api ile çekme\obj\Debug\api_ile_çekme.Properties.Resources.resources
+D:\vs projelerim\repos\api ile çekme\api ile çekme\obj\Debug\api ile çekme.csproj.GenerateResource.cache
+D:\vs projelerim\repos\api ile çekme\api ile çekme\obj\Debug\api ile çekme.csproj.CoreCompileInputs.cache
+D:\vs projelerim\repos\api ile çekme\api ile çekme\obj\Debug\api ile çekme.exe
+D:\vs projelerim\repos\api ile çekme\api ile çekme\obj\Debug\api ile çekme.pdb

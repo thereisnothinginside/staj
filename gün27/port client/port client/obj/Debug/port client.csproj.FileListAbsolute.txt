@@ -1,0 +1,20 @@
+C:\Users\kanar\source\repos\port client\port client\bin\Debug\port client.exe.config
+C:\Users\kanar\source\repos\port client\port client\bin\Debug\port client.exe
+C:\Users\kanar\source\repos\port client\port client\bin\Debug\port client.pdb
+C:\Users\kanar\source\repos\port client\port client\obj\Debug\port client.csproj.AssemblyReference.cache
+C:\Users\kanar\source\repos\port client\port client\obj\Debug\port_client.Form1.resources
+C:\Users\kanar\source\repos\port client\port client\obj\Debug\port_client.Properties.Resources.resources
+C:\Users\kanar\source\repos\port client\port client\obj\Debug\port client.csproj.GenerateResource.cache
+C:\Users\kanar\source\repos\port client\port client\obj\Debug\port client.csproj.CoreCompileInputs.cache
+C:\Users\kanar\source\repos\port client\port client\obj\Debug\port client.exe
+C:\Users\kanar\source\repos\port client\port client\obj\Debug\port client.pdb
+D:\staj dosyalarım\staj projeleri\gün27\port client\port client\bin\Debug\port client.exe.config
+D:\staj dosyalarım\staj projeleri\gün27\port client\port client\bin\Debug\port client.exe
+D:\staj dosyalarım\staj projeleri\gün27\port client\port client\bin\Debug\port client.pdb
+D:\staj dosyalarım\staj projeleri\gün27\port client\port client\obj\Debug\port client.csproj.AssemblyReference.cache
+D:\staj dosyalarım\staj projeleri\gün27\port client\port client\obj\Debug\port_client.Form1.resources
+D:\staj dosyalarım\staj projeleri\gün27\port client\port client\obj\Debug\port_client.Properties.Resources.resources
+D:\staj dosyalarım\staj projeleri\gün27\port client\port client\obj\Debug\port client.csproj.GenerateResource.cache
+D:\staj dosyalarım\staj projeleri\gün27\port client\port client\obj\Debug\port client.csproj.CoreCompileInputs.cache
+D:\staj dosyalarım\staj projeleri\gün27\port client\port client\obj\Debug\port client.exe
+D:\staj dosyalarım\staj projeleri\gün27\port client\port client\obj\Debug\port client.pdb
