@@ -1,0 +1,57 @@
+C:\Users\kanar\source\repos\widget 1\widget 1\bin\Debug\net8.0-windows\widget 1.exe
+C:\Users\kanar\source\repos\widget 1\widget 1\bin\Debug\net8.0-windows\widget 1.deps.json
+C:\Users\kanar\source\repos\widget 1\widget 1\bin\Debug\net8.0-windows\widget 1.runtimeconfig.json
+C:\Users\kanar\source\repos\widget 1\widget 1\bin\Debug\net8.0-windows\widget 1.dll
+C:\Users\kanar\source\repos\widget 1\widget 1\bin\Debug\net8.0-windows\widget 1.pdb
+C:\Users\kanar\source\repos\widget 1\widget 1\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\kanar\source\repos\widget 1\widget 1\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\kanar\source\repos\widget 1\widget 1\obj\Debug\net8.0-windows\widget 1_MarkupCompile.cache
+C:\Users\kanar\source\repos\widget 1\widget 1\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\kanar\source\repos\widget 1\widget 1\obj\Debug\net8.0-windows\widget 1.g.resources
+C:\Users\kanar\source\repos\widget 1\widget 1\obj\Debug\net8.0-windows\widget 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kanar\source\repos\widget 1\widget 1\obj\Debug\net8.0-windows\widget 1.AssemblyInfoInputs.cache
+C:\Users\kanar\source\repos\widget 1\widget 1\obj\Debug\net8.0-windows\widget 1.AssemblyInfo.cs
+C:\Users\kanar\source\repos\widget 1\widget 1\obj\Debug\net8.0-windows\widget 1.csproj.CoreCompileInputs.cache
+C:\Users\kanar\source\repos\widget 1\widget 1\obj\Debug\net8.0-windows\widget 1.dll
+C:\Users\kanar\source\repos\widget 1\widget 1\obj\Debug\net8.0-windows\refint\widget 1.dll
+C:\Users\kanar\source\repos\widget 1\widget 1\obj\Debug\net8.0-windows\widget 1.pdb
+C:\Users\kanar\source\repos\widget 1\widget 1\obj\Debug\net8.0-windows\widget 1.genruntimeconfig.cache
+C:\Users\kanar\source\repos\widget 1\widget 1\obj\Debug\net8.0-windows\ref\widget 1.dll
+D:\vs projelerim\repos\widget 1\widget 1\bin\Debug\net8.0-windows\widget 1.exe
+D:\vs projelerim\repos\widget 1\widget 1\bin\Debug\net8.0-windows\widget 1.deps.json
+D:\vs projelerim\repos\widget 1\widget 1\bin\Debug\net8.0-windows\widget 1.runtimeconfig.json
+D:\vs projelerim\repos\widget 1\widget 1\bin\Debug\net8.0-windows\widget 1.dll
+D:\vs projelerim\repos\widget 1\widget 1\bin\Debug\net8.0-windows\widget 1.pdb
+D:\vs projelerim\repos\widget 1\widget 1\obj\Debug\net8.0-windows\MainWindow.baml
+D:\vs projelerim\repos\widget 1\widget 1\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\vs projelerim\repos\widget 1\widget 1\obj\Debug\net8.0-windows\App.g.cs
+D:\vs projelerim\repos\widget 1\widget 1\obj\Debug\net8.0-windows\widget 1_MarkupCompile.cache
+D:\vs projelerim\repos\widget 1\widget 1\obj\Debug\net8.0-windows\widget 1.g.resources
+D:\vs projelerim\repos\widget 1\widget 1\obj\Debug\net8.0-windows\widget 1.GeneratedMSBuildEditorConfig.editorconfig
+D:\vs projelerim\repos\widget 1\widget 1\obj\Debug\net8.0-windows\widget 1.AssemblyInfoInputs.cache
+D:\vs projelerim\repos\widget 1\widget 1\obj\Debug\net8.0-windows\widget 1.AssemblyInfo.cs
+D:\vs projelerim\repos\widget 1\widget 1\obj\Debug\net8.0-windows\widget 1.csproj.CoreCompileInputs.cache
+D:\vs projelerim\repos\widget 1\widget 1\obj\Debug\net8.0-windows\widget 1.dll
+D:\vs projelerim\repos\widget 1\widget 1\obj\Debug\net8.0-windows\refint\widget 1.dll
+D:\vs projelerim\repos\widget 1\widget 1\obj\Debug\net8.0-windows\widget 1.pdb
+D:\vs projelerim\repos\widget 1\widget 1\obj\Debug\net8.0-windows\widget 1.genruntimeconfig.cache
+D:\vs projelerim\repos\widget 1\widget 1\obj\Debug\net8.0-windows\ref\widget 1.dll
+D:\staj dosyalarım\staj projeleri\gün4\widget 1\widget 1\bin\Debug\net8.0-windows\widget 1.exe
+D:\staj dosyalarım\staj projeleri\gün4\widget 1\widget 1\bin\Debug\net8.0-windows\widget 1.deps.json
+D:\staj dosyalarım\staj projeleri\gün4\widget 1\widget 1\bin\Debug\net8.0-windows\widget 1.runtimeconfig.json
+D:\staj dosyalarım\staj projeleri\gün4\widget 1\widget 1\bin\Debug\net8.0-windows\widget 1.dll
+D:\staj dosyalarım\staj projeleri\gün4\widget 1\widget 1\bin\Debug\net8.0-windows\widget 1.pdb
+D:\staj dosyalarım\staj projeleri\gün4\widget 1\widget 1\obj\Debug\net8.0-windows\MainWindow.baml
+D:\staj dosyalarım\staj projeleri\gün4\widget 1\widget 1\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\staj dosyalarım\staj projeleri\gün4\widget 1\widget 1\obj\Debug\net8.0-windows\App.g.cs
+D:\staj dosyalarım\staj projeleri\gün4\widget 1\widget 1\obj\Debug\net8.0-windows\widget 1_MarkupCompile.cache
+D:\staj dosyalarım\staj projeleri\gün4\widget 1\widget 1\obj\Debug\net8.0-windows\widget 1.g.resources
+D:\staj dosyalarım\staj projeleri\gün4\widget 1\widget 1\obj\Debug\net8.0-windows\widget 1.GeneratedMSBuildEditorConfig.editorconfig
+D:\staj dosyalarım\staj projeleri\gün4\widget 1\widget 1\obj\Debug\net8.0-windows\widget 1.AssemblyInfoInputs.cache
+D:\staj dosyalarım\staj projeleri\gün4\widget 1\widget 1\obj\Debug\net8.0-windows\widget 1.AssemblyInfo.cs
+D:\staj dosyalarım\staj projeleri\gün4\widget 1\widget 1\obj\Debug\net8.0-windows\widget 1.csproj.CoreCompileInputs.cache
+D:\staj dosyalarım\staj projeleri\gün4\widget 1\widget 1\obj\Debug\net8.0-windows\widget 1.dll
+D:\staj dosyalarım\staj projeleri\gün4\widget 1\widget 1\obj\Debug\net8.0-windows\refint\widget 1.dll
+D:\staj dosyalarım\staj projeleri\gün4\widget 1\widget 1\obj\Debug\net8.0-windows\widget 1.pdb
+D:\staj dosyalarım\staj projeleri\gün4\widget 1\widget 1\obj\Debug\net8.0-windows\widget 1.genruntimeconfig.cache
+D:\staj dosyalarım\staj projeleri\gün4\widget 1\widget 1\obj\Debug\net8.0-windows\ref\widget 1.dll
